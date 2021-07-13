@@ -6,8 +6,8 @@ My research interests include machine learning and time series analysis.
 
 
 ## Contacts
-- [Data Mining Lab.](https://datalab.snu.ac.kr/)
-Computer Science and Engineering 
+- [Data Mining Lab.](https://datalab.snu.ac.kr/)    
+Computer Science and Engineering    
 Seoul National University (SNU)
 - **Email**: wjdakf3948@snu.ac.kr
 - Google Scholar | DBLP | CV
