@@ -19,7 +19,7 @@ Seoul National University
 # Publications
 
 - **Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts**   
-Jaemin Yoo, Yejun Soun, __Yong-chan Park__, and U Kang   
+Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang   
 [**KDD 2021**](https://www.kdd.org/kdd2021/) 
 
 - **Fast and Accurate Partial Fourier Transform for Time Series Data**   
