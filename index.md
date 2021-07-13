@@ -6,6 +6,7 @@ I received B.S. in Mathematical Sciences from [Seoul National University](https:
 My research interests include machine learning and time series analysis. 
 
 ## Contacts
+- **Tel**: +82-2-880-7263
 - **Email**: wjdakf3948@snu.ac.kr
 - [Data Mining Lab.](https://datalab.snu.ac.kr/)    
 Computer Science and Engineering     
