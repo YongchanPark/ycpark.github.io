@@ -1,3 +1,10 @@
+# About Me
+I am a M.S./Ph.D. student majoring in Computer Science Engineering at [Seoul National University](https://www.snu.ac.kr/). 
+My research interests include machine learning and time series analysis. 
+I am currently advised by [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/). 
+I received B.S. in Mathematical Sciences at Seoul National University.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/YongchanPark/ycpark.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
