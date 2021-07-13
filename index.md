@@ -10,7 +10,7 @@ My research interests include machine learning and time series analysis.
 Department of Computer Science and Engineering     
 Seoul National University (SNU)
 - Email: wjdakf3948@snu.ac.kr
-- Google Scholar | DBLP | CV
+- [Google Scholar](https://scholar.google.com/citations?user=UAaauqQAAAAJ) | [DBLP](https://dblp.uni-trier.de/pid/274/1605.html) | CV
 
 
 ### Markdown
