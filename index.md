@@ -23,7 +23,7 @@ Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang
 [**KDD 2021**](https://www.kdd.org/kdd2021/) 
 
 - **Fast and Accurate Partial Fourier Transform for Time Series Data**   
-__Yong-chan Park__, Jun-Gi Jang, and U Kang   
+<u>Yong-chan Park</u>, Jun-Gi Jang, and U Kang   
 [**KDD 2021**](https://www.kdd.org/kdd2021/) 
 
 # Professional Services 
