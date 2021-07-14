@@ -1,3 +1,7 @@
+remote_theme: tuur29/pages-themes-cayman
+title: [The title of your site]
+description: [A short description of your site's purpose]
+
 show_downloads: true
 darkmode: false
 hide_first_title: false # Useful if README.md is used on both github and pages
