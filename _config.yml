@@ -7,8 +7,8 @@ darkmode: false
 hide_first_title: true
 color:
   header: "#fff"
-  gradient_left: "#2b8da7"
-  gradient_right: "#c28ddd"
+  gradient_left: "#baadf1"
+  gradient_right: "#2b8da7"
 buttons:
   zip_url: https://scholar.google.com/citations?user=UAaauqQAAAAJ
   zip_title: Google Scholar
