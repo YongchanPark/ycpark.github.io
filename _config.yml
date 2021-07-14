@@ -16,6 +16,4 @@ buttons:
   tar_url: https://dblp.uni-trier.de/pid/274/1605.html
   tar_title: DBLP
   tar_hide: false
-  github_url: https://yongchanpark.github.io/resources/cv/cv.pdf
-  github_title: CV
-  github_hide: false
+  github_hide: true
