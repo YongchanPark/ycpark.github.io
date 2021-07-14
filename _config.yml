@@ -6,9 +6,9 @@ show_downloads: true
 darkmode: false
 hide_first_title: true
 color:
-  header: "#000"
-  gradient_left: "#e53935"
-  gradient_right: "#f57c00"
+  header: "#fff"
+  gradient_left: "#7a70ba"
+  gradient_right: "#c28ddd"
 buttons:
   zip_url: https://scholar.google.com/citations?user=UAaauqQAAAAJ
   zip_title: Google Scholar
