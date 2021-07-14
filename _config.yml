@@ -4,4 +4,5 @@ title: Yong-chan Park
 description: M.S./Ph.D. Student at Seoul National University
 
 show_downloads: true
-darkmode: true
+darkmode: false
+logo_url: ./icons/user.ico # Either absolute or relative url
