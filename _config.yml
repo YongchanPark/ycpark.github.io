@@ -9,7 +9,7 @@ color:
   header: "#fff"
   gradient_left: "#2b8da7"
   gradient_right: "#7a70ba"
-  section_title: "#2b8da7" # this default to gradient_color
-  link: "#7857db" # this default to gradient_color
+  section_title: "#7857db" # this default to gradient_color
+  link: "#2b8da7" # this default to gradient_color
   
 
