@@ -9,11 +9,4 @@ color:
   header: "#fff"
   gradient_left: "#7a70ba"
   gradient_right: "#2b8da7"
-buttons:
-  zip_url: https://scholar.google.com/citations?user=UAaauqQAAAAJ
-  zip_title: Google Scholar
-  zip_hide: false
-  tar_url: https://dblp.uni-trier.de/pid/274/1605.html
-  tar_title: DBLP
-  tar_hide: false
-  github_hide: true
+
