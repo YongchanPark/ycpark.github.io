@@ -1,18 +1,4 @@
 theme: jekyll-theme-cayman
-title: Chan Park
+title: Yong-chan Park
 description: M.S./Ph.D. Student at Seoul National University
 
-remote_theme: tuur29/pages-themes-cayman
-
-
-hide_first_title: false
-show_downloads: false
-darkmode: false
-logo_url: https://raw.githubusercontent.com/YongchanPark/YongchanPark.github.io/gh-pages/icons/user-5.png # Either absolute or relative url
-colors:
-    gradient_left: "#9966ff"
-    gradient_right: "#159957"
-    header: "#ddd"
-    android_theme: "#000" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # this default to gradient_color
