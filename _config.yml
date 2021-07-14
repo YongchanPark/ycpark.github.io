@@ -2,7 +2,7 @@ remote_theme: tuur29/pages-themes-cayman
 title: Yong-chan Park
 description: M.S./Ph.D. Student at Seoul National University
 
-show_downloads: true
+show_downloads: false
 darkmode: false
 hide_first_title: true
 color:
