@@ -10,6 +10,6 @@ color:
   gradient_left: "#2b8da7"
   gradient_right: "#7a70ba"
   section_title: "#2b8da7" # this default to gradient_color
-  link: "#7a70ba" # this default to gradient_color
+  link: "#9966ff" # this default to gradient_color
   
 
