@@ -7,7 +7,7 @@ darkmode: false
 hide_first_title: true
 color:
   header: "#fff"
-  gradient_left: "#baadf1"
+  gradient_left: "#7a70ba"
   gradient_right: "#2b8da7"
 buttons:
   zip_url: https://scholar.google.com/citations?user=UAaauqQAAAAJ
