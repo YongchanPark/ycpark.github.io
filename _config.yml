@@ -7,8 +7,8 @@ darkmode: false
 hide_first_title: true
 color:
   header: "#fff"
-  gradient_left: "#000000"
-  gradient_right: "#d1a7eb"
+  gradient_left: "#25778e"
+  gradient_right: "#7a70ba"
   section_title: "#2b8da7" # this default to gradient_color
   link: "#7857db" # this default to gradient_color
   
