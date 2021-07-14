@@ -40,7 +40,8 @@ Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang
 
 # Professional Services 
 -----------------------
-- **NeurIPS** (Reviewer, 2021)
+## Reviewer
+- **NeurIPS** (2021)
 
 
 # Teaching Experiences
