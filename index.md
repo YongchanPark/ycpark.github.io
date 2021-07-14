@@ -41,3 +41,10 @@ Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang
 # Professional Services 
 -----------------------
 - **NeurIPS** (Reviewer, 2021)
+
+
+# Teaching Experiences
+----------------------
+- M1522.001400 **Introduction to Data Mining** (Spring 2021) Seoul National University
+- M1522.000900 **Data Structure** (Fall 2020) Seoul National University
+
