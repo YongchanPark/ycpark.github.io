@@ -10,8 +10,12 @@ color:
   gradient_left: "#e53935"
   gradient_right: "#f57c00"
 buttons:
-  zip_url: https://github.com/tuur29/pages-themes-cayman
-  zip_title: View Documentation
+  zip_url: https://scholar.google.com/citations?user=UAaauqQAAAAJ
+  zip_title: Google Scholar
   zip_hide: false
-  tar_hide: true
-  github_hide: true
+  tar_url: https://dblp.uni-trier.de/pid/274/1605.html
+  tar_title: DBLP
+  tar_hide: false
+  github_url: https://yongchanpark.github.io/resources/cv/cv.pdf
+  github_title: CV
+  github_hide: false
