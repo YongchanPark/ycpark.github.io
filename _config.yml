@@ -5,7 +5,7 @@ description: M.S./Ph.D. Student at Seoul National University
 hide_first_title: true
 show_downloads: true
 darkmode: false
-logo_url: ./icons/user-5.png # Either absolute or relative url
+logo_url: https://github.com/YongchanPark/YongchanPark.github.io/blob/gh-pages/icons/user-5.png # Either absolute or relative url
 colors:
     gradient_left: "#155799"
     gradient_right: "#159957"
