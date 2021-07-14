@@ -5,13 +5,10 @@ description: M.S./Ph.D. Student at Seoul National University
 show_downloads: true
 darkmode: false
 hide_first_title: true
-colors:
-    gradient_left: "#155799"
-    gradient_right: "#159957"
-    header: "#fff"
-    android_theme: "#000" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # this default to gradient_color
+color:
+  header: "#000"
+  gradient_left: "#e53935"
+  gradient_right: "#f57c00"
 buttons:
   zip_url: https://github.com/tuur29/pages-themes-cayman
   zip_title: View Documentation
