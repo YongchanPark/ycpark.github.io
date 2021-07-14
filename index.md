@@ -46,6 +46,7 @@ Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang
 # Teaching Experiences
 ----------------------
 ## Teaching Assistant
+- **Deep Learning** (Mar. 2021 - Jun. 2021) Samsung Electronics
 - M1522.001400 **Introduction to Data Mining** (Spring 2021) Seoul National University
 - M1522.000900 **Data Structure** (Fall 2020) Seoul National University
 
