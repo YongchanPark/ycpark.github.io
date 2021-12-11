@@ -47,5 +47,5 @@ $hr-border-color: #eff0f1 !default;
 {% endif %}
 
 {% if site.hide_first_title %}
-    .main-content h3:first-child { display: none;}
+    .main-content h3:first-child { display: none; padding: 0; margin: 0;}
 {% endif %}
