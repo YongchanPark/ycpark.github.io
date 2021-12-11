@@ -1,4 +1,4 @@
-### Yong-chan Park
+# Yong-chan Park
 
 # About Me
 ----------
