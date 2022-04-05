@@ -28,7 +28,7 @@ Seoul National University
 <u>Yong-chan Park</u>*, Sangjun Son*, Minyong Cho, and U Kang   
 [**PLOS One 2022**](https://journals.plos.org/plosone/) 
 [ paper 
-| bibtex ]
+| bibtex 
 | code ]
 
 - **Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts**   
