@@ -26,7 +26,7 @@ Seoul National University
 --------------
 - **DAO-CP: Data-Adaptive Online CP Decomposition for Tensor Stream**   
 <u>Yong-chan Park</u>\*, Sangjun Son\*, Minyong Cho, and U Kang (\*equal contribution)  
-[**PLOS One 2022**](https://journals.plos.org/plosone/) 
+[**PLOS ONE 2022**](https://journals.plos.org/plosone/) 
 [ paper 
 | bibtex 
 | code ]
