@@ -27,9 +27,9 @@ Seoul National University
 - **DAO-CP: Data-Adaptive Online CP Decomposition for Tensor Stream**   
 <u>Yong-chan Park</u>\*, Sangjun Son\*, Minyong Cho, and U Kang (\*equal contribution)  
 [**PLOS ONE 2022**](https://journals.plos.org/plosone/) 
-[ paper 
+[ [paper](https://yongchanpark.github.io/resources/2022/PLOSONE/SPC22.pdf) 
 | bibtex 
-| code ]
+| [code](https://github.com/snudatalab/DAO-CP) ]
 
 - **Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts**   
 Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang   
