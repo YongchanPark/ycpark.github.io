@@ -9,7 +9,7 @@ My research interests include machine learning and time series analysis.
 
 ## Contacts
 - **Tel**: +82-2-880-7263
-- **Email**: wjdakf3948@snu.ac.kr
+- **Email**: ycpark6767@gmail.com
 - [Data Mining Lab.](https://datalab.snu.ac.kr/)    
 Computer Science and Engineering     
 Seoul National University
