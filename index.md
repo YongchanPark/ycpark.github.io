@@ -54,6 +54,7 @@ Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang
 # Teaching Experiences
 ----------------------
 ## Teaching Assistant
+- **Advanced Data Science** (Jan. 2023 - Feb. 2023) LG Electronics
 - **Deep Learning** (Mar. 2022 - Jun. 2022) Samsung Electronics
 - **Deep Learning** (Sep. 2021 - Dec. 2021) Samsung Electronics
 - **Deep Learning** (Mar. 2021 - Jun. 2021) Samsung Electronics
