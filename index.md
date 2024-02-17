@@ -24,6 +24,13 @@ Seoul National University
 
 # Publications
 --------------
+- **Fast and Accurate Dual-Way Streaming PARAFAC2 for Irregular Tensors--Algorithm and Application**   
+Jun-Gi Jang, Jeongyoung Lee, <u>Yong-chan Park</u>, U Kang
+[**KDD 2023**](https://www.kdd.org/kdd2023/) 
+[ [paper](https://datalab.snu.ac.kr/~ukang/papers/dashKDD23.pdf) 
+| [bibtex](https://github.com/snudatalab/Dash) 
+| [code](https://github.com/snudatalab/Dash) ]
+
 - **DAO-CP: Data-Adaptive Online CP Decomposition for Tensor Stream**   
 <u>Yong-chan Park</u>\*, Sangjun Son\*, Minyong Cho, and U Kang (\*equal contribution)  
 [**PLOS ONE 2022**](https://journals.plos.org/plosone/) 
