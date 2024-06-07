@@ -24,8 +24,15 @@ Seoul National University
 
 # Publications
 --------------
+- **Fast Multidimensional Partial Fourier Transform with Automatic Hyperparameter Selection**   
+<u>Yong-chan Park</u>, Jongjin Kim, and U Kang   
+[**KDD 2024**](https://www.kdd.org/kdd2024/) 
+[ paper 
+| bibtex 
+| [code](https://github.com/snudatalab/Auto-MPFT) ]
+
 - **Fast and Accurate Dual-Way Streaming PARAFAC2 for Irregular Tensors--Algorithm and Application**   
-Jun-Gi Jang, Jeongyoung Lee, <u>Yong-chan Park</u>, U Kang   
+Jun-Gi Jang, Jeongyoung Lee, <u>Yong-chan Park</u>, and U Kang   
 [**KDD 2023**](https://www.kdd.org/kdd2023/) 
 [ [paper](https://datalab.snu.ac.kr/~ukang/papers/dashKDD23.pdf) 
 | [bibtex](https://github.com/snudatalab/Dash) 
