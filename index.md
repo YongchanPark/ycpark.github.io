@@ -28,7 +28,7 @@ Seoul National University
 <u>Yong-chan Park</u>, Jongjin Kim, and U Kang   
 [**KDD 2024**](https://www.kdd.org/kdd2024/) 
 [ paper 
-| bibtex 
+| [bibtex](https://yongchanpark.github.io/resources/2024/KDD/ParkKK24.bib)  
 | [code](https://github.com/snudatalab/Auto-MPFT) ]
 
 - **Fast and Accurate Dual-Way Streaming PARAFAC2 for Irregular Tensors--Algorithm and Application**   
