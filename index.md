@@ -24,6 +24,13 @@ Seoul National University
 
 # Publications
 --------------
+- **Fast and Accurate PARAFAC2 Decomposition for Time Range Queries on Irregular Tensors**   
+Jun-Gi Jang, <u>Yong-chan Park</u>, and U Kang   
+[**CIKM 2024**](https://cikm2024.org/) 
+[ paper 
+| bibtex 
+| code ]
+
 - **Fast Multidimensional Partial Fourier Transform with Automatic Hyperparameter Selection**   
 <u>Yong-chan Park</u>, Jongjin Kim, and U Kang   
 [**KDD 2024**](https://www.kdd.org/kdd2024/) 
