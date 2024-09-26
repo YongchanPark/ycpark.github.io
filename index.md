@@ -34,9 +34,9 @@ Jun-Gi Jang, <u>Yong-chan Park</u>, and U Kang
 - **Fast Multidimensional Partial Fourier Transform with Automatic Hyperparameter Selection**   
 <u>Yong-chan Park</u>, Jongjin Kim, and U Kang   
 [**KDD 2024**](https://www.kdd.org/kdd2024/) 
-[ paper 
-| bibtex 
-| code ]
+[ [paper](https://yongchanpark.github.io/resources/2024/KDD/ParkKK24.pdf) 
+| [bibtex](https://yongchanpark.github.io/resources/2024/KDD/ParkKK24.bib) 
+| [code](https://github.com/snudatalab/Auto-MPFT) ]
 
 - **Fast and Accurate Dual-Way Streaming PARAFAC2 for Irregular Tensors--Algorithm and Application**   
 Jun-Gi Jang, Jeongyoung Lee, <u>Yong-chan Park</u>, and U Kang   
