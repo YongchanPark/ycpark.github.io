@@ -24,12 +24,26 @@ Seoul National University
 
 # Publications
 --------------
+- **Accurate Coupled Tensor Factorization with Knowledge Graph**   
+SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang
+[**BigData 2024**](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) 
+[ paper
+| bibtex
+| code ]
+
+- **Accurate Stock Movement Prediction via Multi-Scale and Multi-Domain Modeling**   
+JinGee Kim, <u>Yong-chan Park</u>, Jaemin Hong, and U Kang
+[**BigData 2024**](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) 
+[ paper
+| bibtex
+| code ]
+
 - **Fast and Accurate PARAFAC2 Decomposition for Time Range Queries on Irregular Tensors**   
 Jun-Gi Jang, <u>Yong-chan Park</u>, and U Kang   
 [**CIKM 2024**](https://cikm2024.org/) 
-[ paper 
-| bibtex 
-| code ]
+[ [paper](https://dl.acm.org/doi/10.1145/3627673.3679735) 
+| [bibtex](https://github.com/snudatalab/Repeat) 
+| [code](https://github.com/snudatalab/Repeat) ]
 
 - **Fast Multidimensional Partial Fourier Transform with Automatic Hyperparameter Selection**   
 <u>Yong-chan Park</u>, Jongjin Kim, and U Kang   
