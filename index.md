@@ -25,14 +25,14 @@ Seoul National University
 # Publications
 --------------
 - **Accurate Coupled Tensor Factorization with Knowledge Graph**   
-SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang
+SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang   
 [**BigData 2024**](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) 
 [ paper
 | bibtex
 | code ]
 
 - **Accurate Stock Movement Prediction via Multi-Scale and Multi-Domain Modeling**   
-JinGee Kim, <u>Yong-chan Park</u>, Jaemin Hong, and U Kang
+JinGee Kim, <u>Yong-chan Park</u>, Jaemin Hong, and U Kang   
 [**BigData 2024**](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) 
 [ paper
 | bibtex
